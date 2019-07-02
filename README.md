@@ -8,7 +8,7 @@ Here is a simple auto responsive [For All Devices] iframe code to easily embed t
 
 MP3 Converter API Code:
 
-Request a token here via DM -> https://www.facebook.com/PointMp3/
+Request a token here via DM -> https://www.facebook.com/PointMp3/ OR https://www.pointmp3.com/en/contact
 
 ```
 <iframe class="button-api-frame" src="https://www.pointmp3.com/api/framed/YOUTUBE_VIDEO_ID/mp3/MY_TOKEN" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
@@ -37,6 +37,6 @@ Youtube URL: https://www.youtube.com/watch?v= **rNteJDNG5qY**
 
 YouTube-Video-ID: **rNteJDNG5qY**
 
-Please write to us for any query or support: https://www.facebook.com/PointMp3/
+Please write to us for any query or support: https://www.facebook.com/PointMp3/ Or via https://www.pointmp3.com/en/contact
 
 Official API Website: https://www.pointmp3.com/
